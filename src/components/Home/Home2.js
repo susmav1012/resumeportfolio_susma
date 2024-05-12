@@ -22,11 +22,7 @@ function Home2() {
               <br />
               <br />I am good at Programming in
               <i>
-<<<<<<< HEAD
                 <b className="purple"> C++, C and Python. </b>
-=======
-                <b className="purple"> C++, Javascript and Go. </b>
->>>>>>> 24d955cf6cd4ce5ff8a9a8071f0c87dfa4aaacec
               </i>
               <br />
               <br />
@@ -35,11 +31,7 @@ function Home2() {
                 <b className="purple">Websites and application </b> and
                 also in areas related to{" "}
                 <b className="purple">
-<<<<<<< HEAD
                   Data Structures and Databases.
-=======
-                  Blockchain.
->>>>>>> 24d955cf6cd4ce5ff8a9a8071f0c87dfa4aaacec
                 </b>
               </i>
               <br />

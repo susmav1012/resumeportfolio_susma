@@ -96,15 +96,9 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-<<<<<<< HEAD
                 as={Link}
                 to="/contact"
                 onClick={() => updateExpanded(false)}
-=======
-                href="https://soumyajitblogs.vercel.app/"
-                target="_blank"
-                rel="noreferrer"
->>>>>>> 24d955cf6cd4ce5ff8a9a8071f0c87dfa4aaacec
               >
                 <AiFillContacts style={{ marginBottom: "2px" }} /> Contact
               </Nav.Link>
