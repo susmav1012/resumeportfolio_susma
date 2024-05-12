@@ -1,6 +1,7 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
+import { CgCPlusPlus,CgCopyright } from "react-icons/cg";
+import { FaJava,FaPhp } from "react-icons/fa";
 import {
   DiJavascript1,
   DiReact,
@@ -13,11 +14,16 @@ import {
   SiAngular,
   SiAngularjs,
 } from "react-icons/si";
+import { SiPandas } from "react-icons/si";
+import { AiOutlineConsoleSql } from "react-icons/ai";
 function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <CgCPlusPlus />
+      <CgCopyright />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+      <CgCPlusPlus />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
@@ -42,7 +48,19 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiDjango />
-      </Col>     
+      </Col> 
+      <Col xs={4} md={2} className="tech-icons">
+      <SiPandas />
+      </Col>  
+      <Col xs={4} md={2} className="tech-icons">
+      <FaJava />
+      </Col>  
+      <Col xs={4} md={2} className="tech-icons">
+      <FaPhp />
+      </Col>  
+      <Col xs={4} md={2} className="tech-icons">
+      <AiOutlineConsoleSql />
+      </Col>    
     </Row>
   );
 }

@@ -18,12 +18,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am currently pursuing M.Sc Software Systems at Coimbatore Institute of Technology
+              I am currently pursuing M.Sc Software Systems at Coimbatore Institute of Technology.
               <br />
               <br />I am good at Programming in
               <i>
                 <b className="purple"> C++, C and Python. </b>
               </i>
+              I am also interested in data field as my seventh semester intern role was a data Analyst.
               <br />
               <br />
               My field of Interest's are building new &nbsp;
@@ -46,7 +47,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and also interested in Django and Angular</b>
+                <b className="purple"> React.js and also interested in Django and Angular.</b>
               </i>
             </p>
           </Col>
