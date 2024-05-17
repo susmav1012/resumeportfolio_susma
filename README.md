@@ -31,6 +31,6 @@ Include a link or details about your resume.
 
 ## Deployment
 The website is deployed on Vercel at [https://susma-porfolio.vercel.app/](https://susma-porfolio.vercel.app/).
-<html><iframe src="https://susma-porfolio.vercel.app/" width="600" height="400"></iframe></html>
 
+<iframe src="https://susma-porfolio.vercel.app/" width="600" height="400"></iframe>
 
