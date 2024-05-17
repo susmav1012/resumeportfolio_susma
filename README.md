@@ -30,7 +30,6 @@ List and describe the projects showcased on your portfolio.
 Include a link or details about your resume.
 
 ## Deployment
-The website is deployed on Vercel at [https://susma-porfolio.vercel.app/](https://susma-porfolio.vercel.app/).
+The website is deployed on Vercel. Click the badge below to visit:
 
-<iframe src="https://susma-porfolio.vercel.app/" width="600" height="400"></iframe>
-
+[![Vercel Deployment](https://vercel.com/button)](https://susma-porfolio.vercel.app/)
