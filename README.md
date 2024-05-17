@@ -33,3 +33,7 @@ Include a link or details about your resume.
 The website is deployed on Vercel. Click the badge below to visit:
 
 [![Vercel Deployment](https://vercel.com/button)](https://susma-porfolio.vercel.app/)
+or
+
+Click the link:
+https://susma-porfolio.vercel.app/
